@@ -1,1 +1,1 @@
-# SysTrayPersistentApp
+# Sys Tray Persistent App
